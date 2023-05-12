@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # SmoothBrain 4n6 - RDP Bitmap Cache
 
 Lets say that youre a hacker and that you RDP into an organization's server. From this server, you then RDP into the domain controller based on stolen credentials. Other than event logs, how else can you get forensic artifacts? Well you can use RDP bitmap cache. 
