@@ -1,2 +1,3 @@
 Recently I have obtained a Flipper Zero. Here I will share some useful resources as well as some things I have learned about this awesome little device!
 
+The first thing I learned about is different firmware which can allow your flipper zero to do more things that are advertised. One major example of this is the "BadUSB" tool which is included with the flipper zero. The bad USB tool allows a threat actor to input their flipper zero device to another computer via a USB cable and then run rubber ducky scripts. However, utilizing [Xtreme firmware](https://github.com/ClaraCrazy/Flipper-Xtreme), one is able to wirelessly do these attacks over bluetooth. There is even potential to hijack old wireless keyboard dongles to do the same thing. 
